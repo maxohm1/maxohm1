@@ -58,8 +58,11 @@
 
 
 
+<h2 align="left">Enjoy Coding
+ <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="40" />
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</h2>
+<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 
 
