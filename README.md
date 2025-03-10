@@ -55,6 +55,19 @@
 
 
 
+<h2 align="left">Connect with me
+
+</h2>
+
+<a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="90">
+</a>
+
+
+
+<a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
+</a>
 
 
 
@@ -66,7 +79,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="40" />
 
 </h2>
-<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="margin-bottom: 20px;" />
 
 
 
