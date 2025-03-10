@@ -7,7 +7,9 @@
  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/2764.gif" height="30" alt="java logo"  />
  App development and I 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Broken%20Heart.png" height="30" alt="java logo"  />
- web development</h2>
+ web development </h2>
+
+ <img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif"  />
 
 
 
