@@ -9,13 +9,9 @@
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Broken%20Heart.png" height="30" alt="java logo"  />
  web development </h2>
 
- <img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif"  />
+<img align="center" height="250" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" style="margin-bottom: 20px;">
 
-
-
-
-
-
+<h1 align="left">Statistics</h1>
 
 
 
@@ -26,6 +22,10 @@
 
 
 
+<h2 align="left">TechStack
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="40" alt="java logo"  />
+
+</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
