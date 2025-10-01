@@ -5,6 +5,20 @@
   This is Om Prakash</h2>
 
 <h2 align="left">Final year MCA student at NIT Allahabad India, specialising in Android development and algorithms with a focus on software engineering.</h2>
+
+<h2 align="left">Explore  <img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/200w.gif" height="40" />  my new app, OneAI, available on the Play Store.</h2>
+<a href="https://play.google.com/store/apps/details?id=max.ohm.oneai"_blank">
+    
+ <img align="center" height="250" src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/original-ab248cf8298274ac85962cee9f1d2647.gif" style="margin-bottom: 20px;">
+
+</a>
+<h4 align="left">OneAI is a next-gen AI app featuring multi-model chat (Gemini, ChatGPT, DeepSeek, Qwen, Kimi K2 & more), image/video generation, editing, and virtual try-on—powered by NanoBanana.
+</h4>
+
+
+
+
+
 <h2 align="left">I
  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/2764.gif" height="30" alt="java logo"  />
  App development and I 
