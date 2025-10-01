@@ -67,8 +67,8 @@
 
 
 
-<a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
+<a href="https://www.linkedin.com/in/om-prakash-mandal-a253a12a6/" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcliply.co%2Fclip%2Flinkedin-icon%2F&psig=AOvVaw3eEf2T-BKzsGW-jVDZsNpW&ust=1759431539860000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj5yLHXg5ADFQAAAAAdAAAAABAE" width="100">
 </a>
 
 
