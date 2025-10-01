@@ -4,7 +4,7 @@
 
   This is Om Prakash</h2>
 
-<h2 align="left">I am a Master of Computer Applications (MCA) student at NIT Allahabad INDIA, specializing in Computer Science</h2>
+<h2 align="left">I am a Master of Computer Applications (MCA) student at NIT Allahabad INDIA, specializing in Computer Science  Final year MCA student at NIT Allahabad India, specialising in Android development and algorithms with a focus on software engineering.</h2>
 <h2 align="left">I
  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/2764.gif" height="30" alt="java logo"  />
  App development and I 
