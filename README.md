@@ -1,5 +1,5 @@
 <h2 align="left"> Hi! 
- <img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/0bf2baebc370e83b26b1e5ef6a558f07.gif" height="30" />
+ <img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/0bf2baebc370e83b26b1e5ef6a558f07.gif" height="150" />
 
 
   This is Om Prakash</h2>
