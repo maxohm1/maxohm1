@@ -61,7 +61,7 @@
 
 </h2>
 
-<a href="https://www.linkedin.com/in/om-prakash-mandal-a253a12a6/" target="_blank">
+<a href="https://discordapp.com/users/phenomal_wolf_15950" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="90">
 </a>
 
