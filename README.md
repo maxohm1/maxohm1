@@ -68,7 +68,7 @@
 
 
 <a href="https://www.linkedin.com/in/om-prakash-mandal-a253a12a6/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcliply.co%2Fclip%2Flinkedin-icon%2F&psig=AOvVaw3eEf2T-BKzsGW-jVDZsNpW&ust=1759431539860000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj5yLHXg5ADFQAAAAAdAAAAABAE" width="100">
+    <img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="100">
 </a>
 
 
